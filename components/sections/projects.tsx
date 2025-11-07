@@ -10,7 +10,7 @@ export default function Projects() {
       description:
         "Full-stack app with React.js, Firebase, and Firestore featuring authentication and real-time post sharing.",
       technologies: ["React.js", "Firebase", "Firestore", "Tailwind CSS"],
-      github: "https://github.com",
+      github: "https://github.com/Kumarchhotucoder",
       liveDemo: "https://linkedin-clone-demo.com",
     },
     {
@@ -18,7 +18,7 @@ export default function Projects() {
       description:
         "React Native application with Google Maps API and Firebase, including live tracking and fare estimation.",
       technologies: ["React Native", "Google Maps API", "Firebase", "Redux"],
-      github: "https://github.com",
+      github: "https://github.com/Kumarchhotucoder",
       liveDemo: "https://uber-booking-demo.com",
     },
   ]

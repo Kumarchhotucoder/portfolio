@@ -25,14 +25,14 @@ export default function Contact() {
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com",
-      href: "https://github.com",
+      value: "github.com/Kumarchhotucoder",
+      href: "https://github.com/Kumarchhotucoder",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com",
-      href: "https://linkedin.com",
+      value: "chhotu-kumar-b9443628b",
+      href: "https://www.linkedin.com/in/chhotu-kumar-b9443628b/",
     },
   ]
 
@@ -69,7 +69,7 @@ export default function Contact() {
             {/* Social Links */}
             <div className="flex gap-4 pt-4">
               <a
-                href="https://leetcode.com"
+                href="https://leetcode.com/u/CHHOTUXCODER/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-lg bg-muted hover:bg-accent/20 transition-all hover:scale-110"

@@ -41,7 +41,7 @@ export default function Hero() {
 
         <div className="flex gap-4 justify-center pt-8">
           <a
-            href="https://github.com"
+            href="https://github.com/Kumarchhotucoder"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-muted hover:bg-accent/20 transition-all hover:scale-110"
@@ -49,7 +49,7 @@ export default function Hero() {
             <Github size={24} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/chhotu-kumar-b9443628b/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-muted hover:bg-accent/20 transition-all hover:scale-110"
